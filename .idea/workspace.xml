@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6118e9ba-c656-49cc-b547-5fa8fb96c4f6" name="Default Changelist" comment="" />
+    <list default="true" id="6118e9ba-c656-49cc-b547-5fa8fb96c4f6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -135,6 +137,7 @@
       <workItem from="1578972955368" duration="1314000" />
       <workItem from="1578974332053" duration="894000" />
       <workItem from="1583226455259" duration="247000" />
+      <workItem from="1583227904784" duration="483000" />
     </task>
     <servers />
   </component>
@@ -150,11 +153,11 @@
       <screen x="0" y="0" width="1289" height="768" />
     </state>
     <state x="458" y="259" width="373" height="257" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1289.768/1366.0.1378.900@0.0.1289.768" timestamp="1578970183166" />
-    <state x="449" y="137" key="FileChooserDialogImpl" timestamp="1583226789643">
+    <state x="449" y="137" key="FileChooserDialogImpl" timestamp="1583228382408">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="424" y="143" key="FileChooserDialogImpl/0.0.1289.768/1366.0.1378.900@0.0.1289.768" timestamp="1578972461384" />
-    <state x="449" y="137" key="FileChooserDialogImpl/0.0.1366.738/1366.0.1440.870@0.0.1366.738" timestamp="1583226789643" />
+    <state x="449" y="137" key="FileChooserDialogImpl/0.0.1366.738/1366.0.1440.870@0.0.1366.738" timestamp="1583228382408" />
     <state width="1246" height="192" key="GridCell.Tab.0.bottom" timestamp="1578975230199">
       <screen x="0" y="0" width="1289" height="768" />
     </state>
